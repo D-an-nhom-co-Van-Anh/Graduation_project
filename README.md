@@ -13,4 +13,6 @@ Nguyễn Quang Duy
   Các thành viên dùng toàn bộ bằng phiên bản Unity 6000.0.51f1
 
   Đồ án được hướng dẫn bởi cô Trịnh Thị Vân Anh
+
+  Đã update cấu trúc cơ bản
   
