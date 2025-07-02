@@ -14,5 +14,8 @@ Nguyễn Quang Duy
 
   Đồ án được hướng dẫn bởi cô Trịnh Thị Vân Anh
 
-  Đã update cấu trúc cơ bản
+
+  01/07 Đã update cấu trúc cơ bản
+
+  02/07 Có một số giao diện cơ bản
   
