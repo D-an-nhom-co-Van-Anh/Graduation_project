@@ -19,3 +19,5 @@ Nguyễn Quang Duy
 
   02/07 Có một số giao diện cơ bản
   
+  Đề tài: Game hỗ trợ học tập Triết hok
+  
