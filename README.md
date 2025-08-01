@@ -21,3 +21,4 @@ Nguyễn Quang Duy
   
   Đề tài: Game hỗ trợ học tập Triết hok
   
+Bản quyền UI này được draw bởi Nguyễn Giang Linh (artist AkiSora) - xin hãy đọc trước yêu cầu về bản quyền 
